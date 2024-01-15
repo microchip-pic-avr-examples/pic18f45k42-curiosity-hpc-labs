@@ -9,7 +9,7 @@ This example also make use of the latest MPLAB Code Configurator (MCC) Melody, a
 ## Related Documentation
 
 - [PIC18F-K42 Family Product Page](https://www.microchip.com/en-us/product/PIC18F45K42)
-- [PIC18F45K42 Data Sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/40001861B.pdf)
+- [PIC18F45K42 Data Sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18%28L%29F26-27-45-46-47-55-56-57K42-Data-Sheet-40001919G.pdf)
 - [Curiosity HPC Development Board User's guide](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/UserGuides/Curiosity-High-Pin-Count-Development-Board-User-Guide-40001856C.pdf)
 
 ## Software Used
@@ -111,7 +111,7 @@ The four most significant bits of the ADC result are reflected onto each of the 
 The ADC value will be printed on UART TX pin which is connected to pin RC6 through PPS. Connect this pin to the Virtual COM port's TX pin using a jumper wire to use the onboard serial to USB feature.
 
 #### Summary
-The PIC18-Q43 family of devices have an on-board Analog-to-Digital Converter with Computation (ADCC) with 12 bits of resolution. The converter can be referenced to the device’s VDD or an external voltage reference. This lab references it to VDD. The result from the ADC is represented by a ratio of the voltage to the reference.
+The PIC18-K42 family of devices have an on-board Analog-to-Digital Converter with Computation (ADCC) with 12 bits of resolution. The converter can be referenced to the device’s VDD or an external voltage reference. This lab references it to VDD. The result from the ADC is represented by a ratio of the voltage to the reference.
 <br><img src= "https://i.imgur.com/xOCuHXb.png">
 <br><img src= "images/adcc.png">
 
