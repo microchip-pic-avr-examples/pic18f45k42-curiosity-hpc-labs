@@ -102,7 +102,7 @@ Similarly, if we want to push a ```'1'``` into the MSB of the register and have 
 ![Lab3-right-shift-binary-operation](images/Lab3-right-shift-binary-operation.PNG)
  
 
-![](https://i.imgur.com/6TIkKQC.jpg){width=auto height=auto align=center}
+![Rotate](https://i.imgur.com/6TIkKQC.jpg)
 
 ### <u>Lab 4: Analog-to-Digial Converter (ADC)</u>
 #### Introduction
