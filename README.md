@@ -94,7 +94,7 @@ For example, for a certain register rotateReg, we want to push a '```1```' into 
 ###### Left Shift Binary Operation
 ![Lab3-left-shift-binary-operation](images/Lab3-left-shift-binary-operation.PNG)
 
-Similarly, if we want to push a ```'1'``` into the Most Significant Bit (MSB) of the register and have the rest of the bits shift to the right, we can use the Binary Right Shift Operator (>>). We would first have to set up the Carry bit with the value that we want to push into the register before we execute the next instruction, as seen in  the figure below.
+Similarly, if we want to push a '```1```' into the Most Significant Bit (MSB) of the register and have the rest of the bits shift to the right, we can use the Binary Right Shift Operator (>>). We would first have to set up the Carry bit with the value that we want to push into the register before we execute the next instruction, as seen in  the figure below.
 
 ###### Right Shift Binary Operation
 ![Lab3-right-shift-binary-operation](images/Lab3-right-shift-binary-operation.PNG)
